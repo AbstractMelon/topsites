@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/AbstractMelon/topsites/main/banner.png
+![banner](https://raw.githubusercontent.com/AbstractMelon/topsites/main/banner.png)
 # Welcome to Topsites!
 
 # About
