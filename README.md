@@ -4,10 +4,8 @@ Topsites is a cool website made by Melon. It's like a special list of all the aw
 
 # Contact
 
-# Add 
-
 To add a site, Email me at abstractmelons@gmail.com
 
 # Website
 
-abstractmelons.github.io/topsites
+To visit the website, go to https://abstractmelons.github.io/topsites
